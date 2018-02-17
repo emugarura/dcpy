@@ -15,5 +15,6 @@ setup(
       download_url='https://github.com/washim/dcpy/releases/tag/v.0.1',
       keywords=['visualization', 'd3', 'crossfilter', 'dc'],
       install_requires=['ipython'],
+      python_requires='>=3',
       classifiers=['Development Status :: 3 - Alpha','Intended Audience :: Developers','License :: OSI Approved :: MIT License','Programming Language :: Python :: 3.6']
 )

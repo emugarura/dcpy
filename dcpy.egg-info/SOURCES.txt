@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+dcpy.egg-info/PKG-INFO
+dcpy.egg-info/SOURCES.txt
+dcpy.egg-info/dependency_links.txt
+dcpy.egg-info/requires.txt
+dcpy.egg-info/top_level.txt
